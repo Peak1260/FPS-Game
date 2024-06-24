@@ -25,4 +25,4 @@ Welcome to our Unity 3D Multiplayer FPS game! This game is a first-person shoote
 - **Create Lobby**: Use the in-game menu to create a new game lobby.
 - **Join Lobby**: Use the in-game menu to join an existing game lobby.
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](assets/Game Image.png)
